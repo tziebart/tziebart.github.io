@@ -1,4 +1,5 @@
 # Mailer Quality vs. Membership Growth. Optimizing ABC Grocery's "Delivery Club" Promotion Spend
+In this post we will over the code used to determine if the quality of the email used to promote the Delivery Club has a bearing on the success of the promotion.  Or in brief, is it worth it to spend recourses to improve the quality of the email promotion. A promotion was conducted with two mailers of verying quality.  Now we are reviewing the results of the promotion.
 
 **1. The Business Event:**
 
