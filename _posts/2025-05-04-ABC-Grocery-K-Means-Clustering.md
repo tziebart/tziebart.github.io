@@ -1,5 +1,35 @@
 Okay, let's break down this second piece of code. This time, the goal isn't to predict a specific outcome like "signup," but rather to discover natural groupings or "segments" within your customer base based on their shopping habits. This is a technique called **clustering**.
 
+**1. The Business Event:**
+
+**What Happened?** 
+- ABC Grocery recently concluded a promotional campaign for its "Delivery Club."
+
+**Who Was Involved?** 
+ - Marketing department, "Delivery Club" management, and customers.
+
+**What Were the Initial Outcomes/Observations?** 
+- The promotion successfully increased club memberships. However, there's internal discussion regarding the cost-effectiveness of the mailer quality.  ABC Grocery divided it's customers into 3 groups.  Group1 received a basic mailer, Group2 a nicer more expensive  mailer and Group3 received neither (control group). 
+
+**2. The Core Challenge/Question:**
+ 
+ **The Uncertainty/Problem:** 
+ - Was the investment in the current mailer quality justifiedl? Specifically, did the higher-quality (and more expensive) mailer (mailer 2) generate a significantly higher number of sign-ups, or conversely, did the lower-quality (and cheaper) mailer (mailer 1) achieve similar results?
+
+**Why Does It Matter?** 
+- Understanding this relationship is crucial for optimizing future marketing spend, maximizing return on investment (ROI), and ensuring sustainable membership growth.
+
+**The Data-Driven Goal:**
+- To determine the relationship between mailer quality/cost and membership conversion rates to inform future campaign budget allocation for promotional materials.
+
+**3. Methodology Used:
+
+
+
+
+
+
+
 **Our Goal:** To identify distinct groups of customers who show similar purchasing patterns in different grocery product areas. This can help you understand your customer base better and tailor marketing or product strategies to these groups.
 
 Here's the journey this code takes:
