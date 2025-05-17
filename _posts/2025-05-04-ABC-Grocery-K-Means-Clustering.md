@@ -182,7 +182,9 @@ plt.show()
 - The horizontal axis (x-axis) shows the number of clusters (k) we tried.
 - The vertical axis (y-axis) shows the WCSS score for that number of clusters.
 - **Why? (The "Elbow Method")**: We're looking for an "elbow point" in this graph. As you increase 'k', the WCSS will generally decrease (more groups mean they can be tighter). However, there's usually a point where adding more clusters doesn't lead to a _significant_ improvement in WCSS. This point, which looks like an elbow, is often a good indicator of a natural and meaningful number of clusters in the data.
-![[Pasted image 20250517151051.png]]
+
+<img width="914" alt="Pasted image 20250517151051" src="https://github.com/user-attachments/assets/5098481f-2de4-4a08-b7d5-0fc6379041c9" />
+
 
 **Phase 6: Creating and Examining the Customer Segments**
 
