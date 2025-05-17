@@ -157,7 +157,8 @@ plt.show()
 
 **What it is:** Our `RandomForestRegressor` can directly tell us which input features (like age, purchase frequency, gender, etc.) it found most influential when making its predictions. We then create a horizontal bar chart to visualize these importances, making it easy to see which factors have the biggest impact on predicting loyalty scores.
 
-![[Pasted image 20250516162955.png]]
+
+<img width="425" alt="Pasted image 20250516164449" src="https://github.com/user-attachments/assets/e58c0b2c-cf18-495c-8737-b2f73595bd1b" />
 
 
 ```
@@ -178,7 +179,8 @@ plt.show()
 We then plot these "permutation importances" in another bar chart.
 - **Why two methods?** They look at importance from slightly different angles. The first method (`feature_importances_`) comes directly from how the Random Forest was built, while permutation importance is based on how performance changes when a feature is "neutralized." Seeing both can give you more confidence in which features truly matter.
 
-![[Pasted image 20250516164449.png]]
+
+<img width="426" alt="Pasted image 20250516162955" src="https://github.com/user-attachments/assets/bac4c66f-efa5-4512-9b1e-ae29cfd77d96" />
 
 
 **Phase 5: A Peek Under the Hood of Random Forest (Optional Detail)**
