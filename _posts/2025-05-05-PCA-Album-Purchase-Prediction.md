@@ -158,7 +158,8 @@ plt.show()
     
 **Why these plots?** We want to reduce the number of features we feed into our model. This can make the model simpler, faster to train, and sometimes even prevent it from "overthinking" based on too much noisy or redundant information. These plots help us decide how many principal components we can use while still retaining most of the original data's "essence." We look for a point on the cumulative chart where we capture a high percentage of variance (e.g., 75%, 90%, 95%) without needing to use all the original components.
 
-![[Pasted image 20250517153002.png]]
+<img width="914" alt="Pasted image 20250517153002" src="https://github.com/user-attachments/assets/7d664a21-87ab-4154-81be-304aef9f7252" />
+
 
 
 **Part 2: Applying PCA to Reduce the Number of Features**
