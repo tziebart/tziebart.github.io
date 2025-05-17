@@ -223,7 +223,8 @@ f1_score(y_test, y_pred_class)
     - `recall_score`: "Of all the customers who ACTUALLY signed up, how many did our model successfully identify?" (Important if missing a potential signup is very costly).
     - `f1_score`: "This is a brilliant, balanced score that considers both Precision and Recall. It's often the go-to metric when you care about minimizing both false alarms and missed opportunities."
 
-![[Pasted image 20250517144834.png]]
+<img width="551" alt="Pasted image 20250517144834" src="https://github.com/user-attachments/assets/35bfa281-2992-4eff-980b-ca37431cbb4f" />
+
 
 **Phase 10: Optimizing Our Machine – Finding the Perfect 'K' (Hyperparameter Tuning)**
 
@@ -254,7 +255,7 @@ for k in k_list:
     
 **Why?** This "hyperparameter tuning" step is like fine-tuning an engine. It ensures our chosen model (KNN) is working at its absolute best by finding its optimal internal settings.
 
-![[Pasted image 20250517145050.png]]
+<img width="914" alt="Pasted image 20250517145050" src="https://github.com/user-attachments/assets/150cf45a-9680-4efa-9c97-7c9b252d6fe7" />
 
 **The Grand Conclusion of This Code's Journey:**
 
