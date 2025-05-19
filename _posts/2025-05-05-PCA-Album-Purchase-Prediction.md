@@ -1,3 +1,11 @@
+---
+layout: post
+title: New Product Promotion - Will customers buy?
+image: "/posts/listening_album.png"
+tags: [PCA, Feature_Importance]
+---
+
+
 **The Core Challenge**:
 
 ABC Grocery is looking to diversify slightly, and promote Ed Sheeran's new album. We've recently purchased some data around the listening habits of our customers, as well as which customers purchased his last album.
