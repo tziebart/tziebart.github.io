@@ -1,3 +1,11 @@
+---
+layout: post
+title: Predicting Customer Loyalty Scores
+image: "/posts/grocery_shopping.png"
+tags: [ABC, loyalty]
+---
+
+
 # Predicting Missing Loyalty Scores
 
 **1. The Business Event:**
