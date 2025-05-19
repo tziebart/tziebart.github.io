@@ -28,6 +28,13 @@
 - R - Square and Adjusted R Square scoring.
 - Feature Importance of Random Forest: determining what features are important.
 
+**In Summary:**
+
+- **The first 5 phases** is all about the detailed process of building a predictive model: preparing data, training the Random Forest Regressor, rigorously evaluating how well it predicts customer loyalty scores, understanding which customer features are most important for this prediction, and finally, saving the trained model and the data preparation tools (like the encoder).
+- **The 6th phase** takes that saved model and applies it to a completely new set of customers. It then generates loyalty score predictions for these new customers.
+
+These phases together demonstrate a common workflow in data science: first, you build and validate a model, and then you deploy it to make predictions on new, incoming data.
+
 
 **Phase 1: Setting Up Tools and Getting the Data**
 
