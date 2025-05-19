@@ -1,3 +1,11 @@
+---
+layout: post
+title: Predicting if Customers will join the Delivery Club
+image: "/posts/grocery_delivery.png"
+tags: [KNN, RFCEV]
+---
+
+
 **1. The Business Event:**
 
 **What Happened?** 
