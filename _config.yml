@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Tim Ziebart
-description: "Hi I'm Tim, and I'm a Data Scientist / Analyst.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Tim, and I'm a Data Scientist / Analyst with a kean interest in Machine Learning.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ avatar_image: /img/iconimagegoogle.png
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/timziebart" # Add your linkedln handle
+linkedln: "https://linkedln.com/in/timziebart" # Add your linkedln handle
 github: "https://github.com/tziebart"  # Add your github handle
 
 paginate: 6
