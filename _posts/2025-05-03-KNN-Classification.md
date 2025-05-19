@@ -11,7 +11,7 @@
  **The Uncertainty/Problem:** 
  - We want to build a smart system that can predict which customers are most likely to sign up for the loyalty program. This code is the blueprint for creating and testing that prediction machine.
 
-**Summary:
+**Summary:**
 
 We've taken raw customer data, cleaned it, transformed it into a language our model understands, intelligently selected the most predictive pieces of information, and then trained and fine-tuned a K-Nearest Neighbors model.
 
