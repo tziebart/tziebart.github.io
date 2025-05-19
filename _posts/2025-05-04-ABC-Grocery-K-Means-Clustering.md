@@ -1,5 +1,20 @@
 **Our Goal:** To identify distinct groups of customers who show similar purchasing patterns in different grocery product areas. This can help you understand your customer base better and tailor marketing or product strategies to these groups.
 
+
+**In Summary:**
+
+This code takes your grocery transaction data and:
+
+1. **Loads and Combines:** Gets transaction details and links them to product area names.
+2. **Cleans:** Focuses on food items by removing "Non-Food" purchases.
+3. **Transforms for Insight:** Calculates each customer's spending per product area and then converts this into percentages of their total spend to understand _relative preferences_.
+4. **Prepares for Clustering:** Scales the percentage data so all product areas are treated equally by the algorithm.
+5. **Determines Optimal Group Count:** Uses the "Elbow Method" (by plotting WCSS scores) to help decide on a sensible number of customer segments to create.
+6. **Assigns Customers to Segments:** Runs the K-Means algorithm to group customers based on their scaled spending percentages.
+7. **Profiles Segments:** Calculates the average spending profile for each segment to understand their distinct characteristics (e.g., "Dairy enthusiasts," "Bulk buyers in staples," etc.).
+
+The ultimate output is a set of customer segments, each with a distinct purchasing profile, which can be invaluable for targeted business strategies.
+
 Here's the journey this code takes:
 
 **Phase 1: Gathering Tools and Raw Materials (Your Grocery Data)**
