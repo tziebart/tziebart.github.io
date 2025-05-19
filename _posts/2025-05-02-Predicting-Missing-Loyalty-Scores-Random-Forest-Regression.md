@@ -22,7 +22,7 @@
 **The Data-Driven Goal:**
 - To create a system (a predictive model) that can estimate a customer's loyalty score based on their other characteristics. We also want to understand which customer details are most important for this prediction.
 
-**3. Methodology Used:
+**3. Methodology Used:**
 - Random Forest Regressor Model. This is our main prediction tool. Because we're predicting a numerical score (like a loyalty score from 1 to 100), we use a "Regressor." Think of it as a committee of many expert decision-makers (decision trees) who collaborate to come up with a precise numerical estimate.
 - Cross Validation using KFold. 
 - R - Square and Adjusted R Square scoring.
