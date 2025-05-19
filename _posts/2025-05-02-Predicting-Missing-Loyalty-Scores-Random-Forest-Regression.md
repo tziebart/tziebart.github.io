@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting Customer Loyalty Scores
-image: "posts/Grocery_shopping.png"
+image: "/posts/Grocery_shopping.png"
 tags: [ABC, loyalty]
 ---
 
