@@ -1,3 +1,10 @@
+---
+layout: post
+title: Hypothesis Testing - Promoting Delivery Club
+image: "/posts/ABTesting.png"
+tags: [ABTesting, Hypothesis]
+---
+
 # Mailer Quality vs. Membership Growth. Optimizing ABC Grocery's "Delivery Club" Promotion Spend
 
 **1. The Business Event:**
