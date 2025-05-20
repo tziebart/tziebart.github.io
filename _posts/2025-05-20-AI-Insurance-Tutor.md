@@ -1,3 +1,11 @@
+---
+layout: post
+title: Using RAG to develop an AI Teaching Assistant
+image: "/posts/AI_Assistant_Life_Insurance.png"
+tags: [RAG,Vector Store, LLM]
+---
+
+
 Okay, this is a fantastic piece of code! It's building a **Streamlit web application** that acts as an intelligent **Insurance Licensing & Product Training Assistant.** Essentially, it's designed to help someone study for insurance exams by letting them "chat" with their PDF training materials and even generate quizzes from them.
 
 This is a prime example of a **Retrieval Augmented Generation (RAG)** system. Let's break down this analysis into what's happening, why it's clever, and how it all comes together for the user.
