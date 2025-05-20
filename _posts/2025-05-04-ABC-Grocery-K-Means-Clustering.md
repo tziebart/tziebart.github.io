@@ -1,3 +1,10 @@
+---
+layout: post
+title: Customer Classification - For Marketing
+image: "/posts/customers_outside_store_entrance.png"
+tags: [K-Means, Classification]
+---
+
 **Our Goal:** To identify distinct groups of customers who show similar purchasing patterns in different grocery product areas. This can help you understand your customer base better and tailor marketing or product strategies to these groups.
 
 
