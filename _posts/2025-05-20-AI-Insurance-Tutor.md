@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CRM with AI providing the magic.
-image: "/posts/AI_Assistant_crm.png"
-tags: [ML,CRM, LLM]
+title: Insurance Licensing and Product Training Assistant.
+image: "/posts/AI_Assistant_Life_Insurance.png"
+tags: [RAG,LLM, Training]
 ---
 
 
