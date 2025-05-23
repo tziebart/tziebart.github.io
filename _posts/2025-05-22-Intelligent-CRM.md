@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Smart CRM - AI Assistant Brings The Magic
-
+image: "/posts/AI_assistent_crm.png"
+tags: [CRM, LLM, ML]
 ---
 # The Magic Behind Your Smart CRM: How AI Understands Your Every Command!
 
