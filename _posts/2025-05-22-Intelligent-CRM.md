@@ -1,3 +1,7 @@
+---
+title: Smart CRM - AI Assistant Brings The Magic
+
+---
 # The Magic Behind Your Smart CRM: How AI Understands Your Every Command!
 
 Ever wished you could just _tell_ your software what to do, instead of clicking through endless menus? With our new AI-powered CRM, that wish is a reality! You can now manage your contacts and schedule meetings simply by typing commands in plain English, just like you're talking to a very efficient assistant.
