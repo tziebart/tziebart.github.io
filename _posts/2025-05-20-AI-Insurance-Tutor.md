@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Using RAG to develop an AI Teaching Assistant
-image: "/posts/AI_Assistant_Life_Insurance.png"
-tags: [RAG,Vector Store, LLM]
+title: CRM with AI providing the magic.
+image: "/posts/AI_Assistant_crm.png"
+tags: [ML,CRM, LLM]
 ---
 
 
